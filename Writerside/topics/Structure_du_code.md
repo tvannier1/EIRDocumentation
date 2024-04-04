@@ -5,7 +5,7 @@
 
 Le projet est structuré de la manière suivante :
 
-<code-block lang="mermaid">
+```mermaid
     graph LR
         A[main.cpp]
         B[EIT_Shared_Values.h]
@@ -22,8 +22,9 @@ Le projet est structuré de la manière suivante :
         F --> E
         D --> E
         D --> C
+```
 
-</code-block>
+
 
 ## Description des fichiers
 <tabs>
