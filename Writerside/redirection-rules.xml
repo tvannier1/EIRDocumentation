@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6a11c728">
+        <description>Created after removal of "Starter" from Help Instance</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="7b39a19c">
+        <description>Created after removal of "Sommaire" from Help Instance</description>
+        <accepts>Sommaire.html</accepts>
+    </rule>
+    <rule id="123f4ba5">
+        <description>Created after removal of "Comment l'utiliser ?" from Help Instance</description>
+        <accepts>Comment-l-utiliser.html</accepts>
+    </rule>
+    <rule id="753c18fc">
+        <description>Created after removal of "Et après..." from Help Instance</description>
+        <accepts>Et-après.html</accepts>
+    </rule>
+    <rule id="53f48af6">
+        <description>Created after removal of "Contribuer au projet" from Help Instance</description>
+        <accepts>Contribuer_au_projet.html</accepts>
+    </rule>
+    <rule id="42caeda2">
+        <description>Created after removal of "Explication du code" from Help Instance</description>
+        <accepts>Explication_du_code.html</accepts>
+    </rule>
+    <rule id="7aa37758">
+        <description>Created after removal of "EIT_Interface_Display.cpp" from Help Instance</description>
+        <accepts>EIT-Interface-Display-cpp.html</accepts>
+    </rule>
+    <rule id="5419c23">
+        <description>Created after removal of "EIT_Interface_Display.h" from Help Instance</description>
+        <accepts>EIT-Interface-Display-h.html</accepts>
+    </rule>
+    <rule id="5a5c985e">
+        <description>Created after removal of "EIT_Impedance_measurement.cpp" from Help Instance</description>
+        <accepts>EIT-Impedance-measurement-cpp.html</accepts>
+    </rule>
+    <rule id="2285c4a3">
+        <description>Created after removal of "EIT_Impedance_measurement.h" from Help Instance</description>
+        <accepts>EIT-Impedance-measurement-h.html</accepts>
+    </rule>
+    <rule id="5cfcedaf">
+        <description>Created after removal of "EIT_Shared_Values.h" from Help Instance</description>
+        <accepts>EIT-Shared-Values-h.html</accepts>
+    </rule>
+    <rule id="7a8192dc">
+        <description>Created after removal of "main.cpp" from Help Instance</description>
+        <accepts>main-cpp.html</accepts>
+    </rule>
+</rules>

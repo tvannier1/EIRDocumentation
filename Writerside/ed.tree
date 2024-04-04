@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ed" name="EIR Documentation"
+                  start-page="Electric_Impedance_Recorder.md">
+
+    <toc-element topic="Electric_Impedance_Recorder.md">
+    </toc-element>
+    <toc-element topic="Introduction.md">
+    </toc-element>
+    <toc-element topic="Guide_utilisateur.md">
+        <toc-element topic="Précautions.md"/>
+        <toc-element topic="Navigation.md"/>
+        <toc-element topic="Enregistrement.md"/>
+        <toc-element topic="Depannage.md"/>
+    </toc-element>
+    <toc-element topic="Technique-de-mesure.md"/>
+    <toc-element topic="Structure_du_code.md">
+    </toc-element>
+    <toc-element topic="Annexes.md"/>
+</instance-profile>
