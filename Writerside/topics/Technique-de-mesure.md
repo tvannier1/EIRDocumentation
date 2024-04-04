@@ -8,7 +8,7 @@ L'EIT repose sur la mesure des variations d'impédance électrique des tissus en
 Dans ce projet, l'impédance électrique est mesurée à l'aide d'un circuit intégré [AD5933](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5933.pdf) qui génère un signal sinusoïdal à une fréquence donnée. Ce signal est appliqué aux 8 électrodes de mesure qui sont en contact avec les tissus. L'impédance électrique est ensuite calculée à partir de la tension et du courant mesurés.
 
 
-<img src="carto.png" alt="Cartographie de l'impédance électrique">
+<img src="carto.png" alt="Cartographie de l'impédance électrique"/>
 
 Ainsi, une tomographie d'impédance électrique permet de visualiser la distribution de l'impédance électrique des tissus.
 
@@ -18,7 +18,7 @@ Enfin, un [MCP23008](https://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf
 
 ### Synoptique du système
 
-<code-block lang="mermaid">
+```mermaid
     graph LR
         A[AD5933]
         B[TMUX4051]
@@ -33,8 +33,9 @@ A --- B
 A --- F
 B --- E
 F --- E
+```
 
 
 
 
-</code-block>
+
