@@ -12,8 +12,9 @@
     <toc-element topic="Guide_utilisateur.md">
         <toc-element topic="Précautions.md"/>
         <toc-element topic="Navigation.md"/>
-        <toc-element topic="Enregistrement.md"/>
-                <toc-element topic="Modifier-la-liste-de-geste.md"/>
+        <toc-element topic="Enregistrement.md">
+            <toc-element topic="Modifier-la-liste-de-geste.md"/>
+        </toc-element>
         <toc-element topic="Depannage.md"/>
     </toc-element>
     <toc-element topic="Technique-de-mesure.md"/>
