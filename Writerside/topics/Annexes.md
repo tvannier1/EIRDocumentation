@@ -1,5 +1,6 @@
 # Annexes
-[GitHub Projet IER](https://github.com/tvannier1/IER_Project_tvannier.git)
+- [GitHub Projet IER](https://github.com/tvannier1/IER_Project_tvannier.git)
+- [GitHub M5CoreS3](https://github.com/m5stack/M5CoreS3)
 # Références
 
 - [M5Stack](https://docs.m5stack.com/)
