@@ -5,7 +5,7 @@ Pour modifier la liste des gestes, il suffit de modifier le tableau `gesture_lis
 \
 Ce tableau contient la liste des gestes disponibles pour l'enregistrement. Chaque geste est représenté par une chaîne de caractères.
 
-```cpp
+```C++
 // Gesture list
 const String gestureList[] = {"CUSTOM",
                               "FIST",
