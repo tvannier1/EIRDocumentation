@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="ed" name="MIEL Wearable EIT System Documentation"
-                  start-page="MIEL_Wearable_EIT_System.md"">
+                  start-page="MIEL_Wearable_EIT_System.md">
 
     <toc-element topic="MIEL_Wearable_EIT_System.md">
     </toc-element>
