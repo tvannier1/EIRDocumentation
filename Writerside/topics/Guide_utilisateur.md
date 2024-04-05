@@ -2,11 +2,11 @@
 
 Cette section est dédiée à l'explication des fonctionnalités de de l'appareil et à la manière de les utiliser.
 
-De manière générale, l'EIR est composé de trois parties principales: le M5Stack Core S3, la batterie et les électrodes.
+De manière générale, le MIEL Wearable EIT System est composé de trois parties principales: le M5Stack Core S3, la batterie et les électrodes.
 <procedure>
 <tabs>
     <tab title="M5Stack Core S3">
-        <p>Le M5Stack Core S3 est le cœur de l'EIR. Il est équipé d'un écran couleur, de boutons de contrôle et d'un port USB-C.</p>
+        <p>Le M5Stack Core S3 est le cœur du MIEL Wearable EIT System. Il est équipé d'un écran couleur, de boutons de contrôle et d'un port USB-C.</p>
         <img src="m5_1.png" alt="M5 top view"/>
     </tab>
     <tab title="Batterie">
@@ -27,4 +27,4 @@ De manière générale, l'EIR est composé de trois parties principales: le M5St
 Porter le M5Stack à la manière d'une montre et placer les électrodes plus haut sur l'avant-bras.
 </note>
 
-> Pour utiliser l'EIR, il suffit de connecter les électrodes à l'appareil ainsi que la batterie et d'allumer le M5Stack.
+> Pour utiliser le MIEL Wearable EIT System, il suffit de connecter les électrodes à l'appareil ainsi que la batterie et d'allumer le M5Stack.
