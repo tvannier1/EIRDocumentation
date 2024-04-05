@@ -1,4 +1,4 @@
-# Electric Impedance Recorder
+# MIEL Wearable EIT System
 
 Guide utilisateur et documentation technique
 
