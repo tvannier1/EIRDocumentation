@@ -11,7 +11,7 @@
 - [EIT_kit](https://hcie.csail.mit.edu/research/eit-kit/eit-kit.html)
 # Glossaire
 
-- **EIR** : Electric Impedance Recorder
+- **MIEL** : Multi-user Interactive Experience Lab
 - **EIT** : Electrical Impedance Tomography
 - **TIE** : Tomographie d'Impédance Électrique
 - **UQAC** : Université du Québec à Chicoutimi
