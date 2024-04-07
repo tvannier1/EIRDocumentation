@@ -25,4 +25,4 @@
 - **SPI** : Serial Peripheral Interface
 
 # Autre contributeurs technique
--[Yolan Renard](https://github.com/AwesomeLuffy) 
+- [Yolan Renard](https://github.com/AwesomeLuffy) 
