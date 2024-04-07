@@ -23,3 +23,6 @@
 - **I2C** : Inter-Integrated Circuit
 - **RTC** : Real Time Clock
 - **SPI** : Serial Peripheral Interface
+
+# Autre contributeurs technique
+-[Yolan Renard](https://github.com/AwesomeLuffy) 
